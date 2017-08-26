@@ -1,0 +1,272 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="technoservis.kz" resolutions="1x" timestamp="1503643839208">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="______.css" crc="502988624" ref="услуги"/>
+    <file name="___-______.css" crc="3884518989" ref="біз-туралы"/>
+    <file name="_____.css" crc="36776827" ref="прайс"/>
+    <file name="_________.css" crc="182993964" ref="қызметтер"/>
+    <file name="_______-_____.css" crc="4129316522" ref="сделать-заказ"/>
+    <file name="_______-_______.css" crc="4198297038" ref="галерия-казакша"/>
+    <file name="______-_______.css" crc="7307570" ref="өтінім-қалдыру"/>
+    <file name="_______1.css" crc="47234327" ref="казакша"/>
+    <file name="index.css" crc="367637218" ref="index"/>
+    <file name="_-___.css" crc="4159412515" ref="о-нас"/>
+    <file name="_______.css" crc="4233498657" ref="галерея"/>
+  </folder>
+  <folder name="assets">
+    <file name="untitled-1-u3855.png" crc="4180911971" seo="true" mt="1503370036000"/>
+    <file name="коммерческое-предложение-ag-техносервис-2016-1.docx" crc="132418656" seo="true" mt="1501474382000"/>
+    <file name="коммерческое-предложение-ag-техносервис-2016-1.pdf" crc="4273017555" seo="true" mt="1503641021000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="museutils.js" crc="4216313831" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="whatinput.js" crc="86476730" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="museconfig.js" crc="474374037" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="webpro.js" crc="4143865194" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u3109.php" crc="4216016056" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:казакша:біз-туралы"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="require.js" crc="3951022091" ref="index:сделать-заказ:о-нас:галерея:услуги:прайс:казакша:қызметтер:галерия-казакша:өтінім-қалдыру:біз-туралы"/>
+    <file name="form-u11009.php" crc="172821544" ref="сделать-заказ"/>
+    <file name="form-u961.php" crc="3857989626" ref="сделать-заказ"/>
+    <file name="form-u10689.php" crc="443562475" ref="о-нас"/>
+    <file name="form-u7261.php" crc="4026877293" ref="галерея"/>
+    <file name="form-u5056.php" crc="53912993" ref="услуги"/>
+    <file name="form-u6984.php" crc="228673129" ref="прайс"/>
+    <file name="form-u6289.php" crc="307909123" ref="казакша"/>
+    <file name="form-u9037.php" crc="195588824" ref="қызметтер"/>
+    <file name="form-u9350.php" crc="67466936" ref="галерия-казакша"/>
+    <file name="form-u11283.php" crc="259023888" ref="өтінім-қалдыру"/>
+    <file name="form-u11506.php" crc="4194517491" ref="өтінім-қалдыру"/>
+    <file name="form-u10432.php" crc="4068696821" ref="біз-туралы"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-1-u3967.png" crc="408130867" ref="index"/>
+    <file name="collecte168x45.jpg" crc="4187896600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small-327669x45.jpg" crc="302212424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thumb_pic7-crop-u564-crop-u1449.jpg" crc="3975950762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0005-crop-u684-crop-u1476.jpg" crc="3921668726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collecte1.jpg" crc="3821760419" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:галерея:казакша:галерия-казакша"/>
+    <file name="small-3276.jpg" crc="161378066" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="thumb_pic7-crop-u564.jpg" crc="3946240851" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="img_0005-crop-u684.jpg" crc="3822306643" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:галерея:казакша:галерия-казакша"/>
+    <file name="untitled-3.png" crc="105235775" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="contactenos.png" crc="3902292387" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="untitled-2.png" crc="4209431714" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="canon.png" crc="3966884784" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="zamena-kartridzh-dlya-xerox-c118-3325.png" crc="146710647" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="hp.png" crc="3838898380" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="без названия.png" crc="128206136" seo="true" ref="index:казакша">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="istock_000061186984_large.jpg" crc="311288381" ref="index:казакша:біз-туралы">
+      <caption webpage="index" alt=""/>
+      <caption webpage="казакша" alt=""/>
+      <caption webpage="біз-туралы" alt=""/>
+    </file>
+    <file name="untitled-1-u11040.png" crc="408130867" ref="сделать-заказ"/>
+    <file name="untitled-1-u10720.png" crc="408130867" ref="о-нас"/>
+    <file name="111-1250x938 (1).jpg" crc="4283376161" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="printer service.jpg" crc="478926355" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="3560679658.jpg" crc="4125778898" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3797977416" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="tamir.jpg" crc="457573512" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="bigstock-personal-computer-assembling-11839148-c-r.jpg" crc="486024122" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="1-remont-printerov-i-mfu-na-troeschine-diagnostika.jpg" crc="104616804" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="e25d9c9e-8741-4f0d-813c-e18968d2fe3f.jpg" crc="4152000946" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="maxresdefault.jpg" crc="3943179508" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="замена-картриджа-1024x683.jpg" crc="195994241" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="обслуживание компьютеров000984b2_501682.jpg" crc="294744242" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="chistka-schetchika-banknot-v-moskve.jpg" crc="3935480025" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="1369989394_img_1724.jpg" crc="289438708" seo="true" ref="галерея:галерия-казакша">
+      <caption webpage="галерея" alt=""/>
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="111-1250x938 (1)224x168.jpg" crc="143967817" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="printer service235x168.jpg" crc="273454006" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="3560679658-crop-u7825.jpg" crc="402902551" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="3224x168.jpg" crc="4137510181" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="tamir225x168.jpg" crc="4062562727" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="bigstock-personal-computer-assembling-11839148-c-r254x168.jpg" crc="4031770712" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="1-remont-printerov-i-mfu-na-troeschine-diagnostika207x204.jpg" crc="3875886893" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="e25d9c9e-8741-4f0d-813c-e18968d2fe3f252x168.jpg" crc="61602215" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u7960.jpg" crc="257780206" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="замена-картриджа-1024x683252x168.jpg" crc="241944897" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="обслуживание компьютеров000984b2_501682224x168.jpg" crc="358769196" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="chistka-schetchika-banknot-v-moskve207x208.jpg" crc="61742923" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="1369989394_img_1724224x168.jpg" crc="4188063364" seo="true" ref="галерея">
+      <caption webpage="галерея" alt=""/>
+    </file>
+    <file name="untitled-1-u7292.png" crc="4182852743" ref="галерея"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="untitled-1-u5089.png" crc="408130867" ref="услуги"/>
+    <file name="canon-c-exv6-toner-v-moskve-3295.jpg" crc="4147409575" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="u5293-11.png" crc="3897864422" ref="услуги"/>
+    <file name="u5320-4.png" crc="66817069" ref="услуги"/>
+    <file name="1 (1).jpg" crc="425810220" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="1 (2).jpg" crc="3827626802" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4060830393" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="668813_v01_b.jpg" crc="333691262" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="237674915-toner-dlya-printera-superfine-35888-19-noname-1000x1000-crop-u5363.jpg" crc="4093446961" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="u5383-9.png" crc="4142378263" ref="услуги"/>
+    <file name="lan.gif" crc="465798577" seo="true" ref="услуги">
+      <caption webpage="услуги" alt=""/>
+    </file>
+    <file name="untitled-1-u7015.png" crc="408130867" ref="прайс"/>
+    <file name="untitled-1-u6153.png" crc="408130867" ref="казакша"/>
+    <file name="thumb_pic7-crop-u564-crop-u6168.jpg" crc="3975950762" seo="true" ref="казакша">
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="img_0005-crop-u684-crop-u6164.jpg" crc="3921668726" seo="true" ref="казакша">
+      <caption webpage="казакша" alt=""/>
+    </file>
+    <file name="untitled-1-u9070.png" crc="408130867" ref="қызметтер"/>
+    <file name="3560679658-crop-u9629.jpg" crc="402902551" seo="true" ref="галерия-казакша">
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u9645.jpg" crc="257780206" seo="true" ref="галерия-казакша">
+      <caption webpage="галерия-казакша" alt=""/>
+    </file>
+    <file name="untitled-1-u9388.png" crc="408130867" ref="галерия-казакша"/>
+    <file name="untitled-1-u11321.png" crc="408130867" ref="өтінім-қалдыру"/>
+    <file name="untitled-1-u10463.png" crc="408130867" ref="біз-туралы"/>
+    <file name="как-изменить-логин-в-вк.png" crc="52853725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4256843371" seo="true" mt="1503643833144" redirect="true"/>
+  <file name="сделать-заказ.html" crc="291758031" seo="true" mt="1503637417953" redirect="true"/>
+  <file name="о-нас.html" crc="4019673593" seo="true" mt="1503637487938" redirect="true"/>
+  <file name="галерея.html" crc="108542044" seo="true" mt="1503638389809" redirect="true"/>
+  <file name="услуги.html" crc="3845080860" seo="true" mt="1503637410196" redirect="true"/>
+  <file name="прайс.html" crc="3793840502" seo="true" mt="1503641228562" redirect="true"/>
+  <file name="казакша.html" crc="3809289600" seo="true" mt="1503638345430" redirect="true"/>
+  <file name="қызметтер.html" crc="65581639" seo="true" mt="1503637417931" redirect="true"/>
+  <file name="галерия-казакша.html" crc="3842877844" seo="true" mt="1503639025960" redirect="true"/>
+  <file name="өтінім-қалдыру.html" crc="173243488" seo="true" mt="1503639011207" redirect="true"/>
+  <file name="біз-туралы.html" crc="4155453617" seo="true" mt="1503637575840" redirect="true"/>
+</manifest>
